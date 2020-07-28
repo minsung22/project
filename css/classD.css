@@ -182,3 +182,77 @@
 .coverEx{margin-top:6px;}
 .thumEx{margin-top:10px;}
 
+.info3{
+    margin-top:50px;
+    padding-bottom: 80px;
+    border-bottom: 1px solid #bfbfbe;
+}
+.info3 h2{color:#f3848f; font-size:24px;}
+.info3 > p{color:#bfbfbe; font-size:14px;}
+.info3 .info3_1{margin-top:50px;}
+.info3 .info3_1 ul{}
+.info3 .info3_1 ul li{
+    width:30%;
+    display:inline-block;
+    margin:13px;
+}
+.info3 .info3_1 ul li a{
+    width:100%; height:260px;
+    display:inline-block;
+    border:1px solid #000;
+    color:#bfbfbe;
+    box-sizing: border-box;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.info3 .info3_1 ul li input{
+    width:100%; height:100px;
+    margin-top:3px;
+}
+
+
+.myinfo{
+    margin-top:50px;
+    padding-bottom:80px;
+    border-bottom:1px solid #bfbfbe;
+}
+.myinfo h2{color:#f3848f; font-size:24px;}
+.myinfo h3{font-size:18px;}
+.myinfo .floatR a{margin-left: 40px; display:inline-block;}
+.myinfo .floatR a:nth-of-type(2){
+    width:100%; height:40px;
+    margin-top:10px;
+    border:1px solid #000; text-align: center;
+    line-height:40px; 
+}
+.myinfo .floatR a:nth-of-type(2):hover{background:#bfbfbe;}
+
+.myinfo div{
+    margin-top:50px;
+}
+.myinfo input{
+    margin-top:10px;
+    width:330px;
+    height:50px;
+}
+
+.myinfo .nickname p{color:#bfbfbe; font-size:14px;}
+
+.advice{margin-top:50px; padding-bottom:80px; border-bottom:1px solid #bfbfbe;}
+.advice h2{font-size:36px; color:#f3848f;}
+.advice ul{margin-top:50px;}
+.advice ul li{
+    margin:20px 0;
+    font-size:24px;
+}
+
+.save{text-align: end; margin-top:20px;}
+.save a{
+    display:inline-block;
+    width:80px;
+    height:40px;
+    background:#f3848f;
+    border-radius:10px;
+    line-height: 40px; text-align:center;
+}
