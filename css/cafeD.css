@@ -225,13 +225,24 @@ margin-top:10px;}
     
     .save{text-align: center; margin-top:50px;}
     .save a{
-    display:inline-block;
-    width:80px;
-    height:40px;
-    background:#f3848f;
-    border-radius:10px;
-    line-height: 40px; text-align:center;
+        font-size:30px;
+    width:250px;
+    height:60px;
+        line-height: 60px;
     }
+    
+    .cafe_t{width:60%; margin:0 auto;}
+    .cafe_t h3{text-align: start;}
+    .cafe_t input{width:100%;}
+    
+    .cafe_ex{width:60%; margin:0 auto;}
+    .cafe_ex h3{text-align: start;}
+    .cafe_ex input{width:100%;}
+    
+    .juso{width:60%; margin:0 auto;}
+    .juso p{text-align: start;}
+    .juso input{width:100%;}
+    .juso h3{text-align: start;}
 }
 
 
@@ -263,12 +274,10 @@ margin-top:10px;}
     .save{text-align: center; margin-top:50px;}
     .save a{
         font-size:30px;
-    display:inline-block;
     width:250px;
     height:60px;
-    background:#f3848f;
-    border-radius:10px;
-    line-height: 60px; text-align:center;
+        line-height: 60px;
     }
+    
     
 }
