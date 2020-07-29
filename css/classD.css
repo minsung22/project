@@ -263,13 +263,20 @@
 @media all and (min-width:768px) and (max-width:1024px) {
     .side_menu{display:none;}
     .con1{margin:0 auto; width:100%; float:none;}
-    
+    .create .img a{width:30%;  margin-left:26px;}
+    .create .img a+a{ margin-left:26px;}
+    .create .img a img{width:100%;}
+    .develop .img a{width:30%; margin-left:26px;}
+    .develop .img a img{width:100%;}
 }
-
-
 
 @media all and (min-width:320px) and (max-width:767px) {
     .side_menu{display:none;}
     .con1{margin:0 auto; width:100%; float:none;}
+    .create .img a{width:30%;  margin-left:26px;}
+    .create .img a+a{ margin-left:26px;}
+    .create .img a img{width:100%;}
+    .develop .img a{width:30%; margin-left:26px;}
+    .develop .img a img{width:100%;}
     
 }
