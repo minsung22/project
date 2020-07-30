@@ -301,12 +301,14 @@ h2{
     text-align:right;
 }
     .con3{height:290px;}
+    .con3 h1{margin-bottom:20px;}
+    .con3 h2{color:#bebebe;}
     .con3 article form input{}
     .con3 article a{
-        left:calc(50% - 50px); bottom:0;
+        left:calc(50% - 50px); bottom:20px;
     }
     
-    
+    .con5 a{margin-left:20px;}
     
     .fix-sidebar .btn a {
         position:fixed;
