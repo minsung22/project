@@ -235,7 +235,7 @@ h2{
     .con3 article a{
         left:500px;
     }
-    
+    .con5 a:nth-of-type(1){margin-left:20px;}
     .fix-sidebar .btn a {
         position:fixed;
         bottom:0; left:0;
@@ -249,13 +249,13 @@ h2{
     font-size: 30px;
     }
     .fix-sidebar > div {
-        margin:40px auto 10px auto;
+        margin:40px auto 80px auto;
         width:90%;
     border:none;
     padding: 24px 30px;
     background: #fff;
     }
-
+    footer{display:none;}
 
 }
 
@@ -305,6 +305,8 @@ h2{
     .con3 article a{
         left:calc(50% - 50px); bottom:0;
     }
+    
+    
     
     .fix-sidebar .btn a {
         position:fixed;
